@@ -1,0 +1,284 @@
+.num1{
+    width: 100px;
+    height:96px;
+    font-size: 77px;
+    text-align: center;
+
+    position: absolute;
+    top: 4%;
+    border: 2px solid rgb(9, 20, 15);
+    border-radius:33px;
+    background-color: rgb(46, 47, 55);
+    color: rgb(227, 134, 41);  
+    font-family: "Fredoka";
+}
+.num2{
+    width: 100px;
+    height:96px;
+    font-size: 77px;
+    text-align: center;
+
+    position: absolute;
+    top: 4%;
+    left: 8.03%;
+    border: 2px solid rgb(9, 20, 15);
+    border-radius:33px;
+    background-color: rgb(46, 47, 55);
+    color: rgb(227, 134, 41);  
+    font-family: "Fredoka";
+}
+.num3{
+    width: 100px;
+    height:96px;
+    font-size: 77px;
+    text-align: center;
+
+    position: absolute;
+    top: 4%;
+    left: 15.5%;
+    border: 2px solid rgb(9, 20, 15);
+    border-radius:33px;
+    background-color: rgb(46, 47, 55);
+    color: rgb(227, 134, 41);  
+    font-family: "Fredoka";
+}
+.num4{
+    width: 100px;
+    height:96px;
+    font-size: 77px;
+    text-align: center;
+
+    position: absolute;
+    top: 20.01%;
+    border: 2px solid rgb(9, 20, 15);
+    border-radius:33px;
+    background-color: rgb(46, 47, 55);
+    color: rgb(227, 134, 41);  
+    font-family: "Fredoka";
+}
+.num5{
+    width: 100px;
+    height:96px;
+    font-size: 68px;
+    text-align: center;
+    position: absolute;
+    top: 20.01%;
+    left: 8.03%;
+    border: 2px solid rgb(9, 20, 15);
+    border-radius:33px;
+    background-color: rgb(46, 47, 55);
+    color: rgb(227, 134, 41);  
+    font-family: "Fredoka";
+}
+.num6{
+    width: 100px;
+    height:96px;
+    font-size: 77px;
+    text-align: center;
+    
+    position: absolute;
+    top: 20.01%;
+    left: 15.5%;
+    border: 2px solid rgb(9, 20, 15);
+    border-radius:33px;
+    background-color: rgb(46, 47, 55);
+    color: rgb(227, 134, 41);  
+    font-family: "Fredoka";
+
+}
+.num7{
+    width: 100px;
+    height:96px;
+    font-size: 77px;
+    text-align: center;
+    position: absolute;
+
+    top: 35.9%;
+    border: 2px solid rgb(9, 20, 15);
+    border-radius:33px;
+    background-color: rgb(46, 47, 55);
+    color: rgb(227, 134, 41);  
+    font-family: "Fredoka";
+
+    
+}
+.num8{
+    width: 100px;
+    height:96px;
+    font-size: 77px;
+    text-align: center;
+    position: absolute;
+
+    top: 35.9%;
+    left: 8.03%;
+    border: 2px solid rgb(9, 20, 15);
+    border-radius:33px;
+    background-color: rgb(46, 47, 55);
+    color: rgb(227, 134, 41);  
+    font-family: "Fredoka";
+}
+.num9{
+    width: 100px;
+    height:96px;
+    font-size: 77px;
+    text-align: center;
+    position: absolute;
+    
+    top: 35.9%;
+    left: 15.5%;
+    border: 2px solid rgb(9, 20, 15);
+    border-radius:33px;
+    background-color: rgb(46, 47, 55);
+    color: rgb(227, 134, 41);  
+    font-family: "Fredoka";
+}
+.num0{
+    width: 100px;
+    height:96px;
+    font-size: 77px;
+    text-align: center;
+    position: absolute;
+
+    top: 51.8%;
+    border: 2px solid rgb(9, 20, 15);
+    border-radius:33px;
+    background-color: rgb(46, 47, 55);
+    color: rgb(227, 134, 41);  
+    font-family: "Fredoka";
+}
+.decimal{
+    width: 100px;
+    height:96px;
+    font-size: 77px;
+    text-align: center;
+    position: absolute;
+
+    top: 51.8%;
+    left: 8.03%;
+    border: 2px solid rgb(9, 20, 15);
+    border-radius:33px;
+    background-color: rgb(46, 47, 55);
+    color: rgb(227, 134, 41);  
+    font-family: "Fredoka";
+}
+.opEquals{
+    width: 100px;
+    height:96px;
+    font-size: 77px;
+    text-align: center;
+    position: absolute;
+
+    top: 51.8%;
+    left: 15.5%;
+    border: 2px solid rgb(9, 20, 15);
+    border-radius:33px;
+    background-color: rgb(36, 43, 40);
+    color: rgb(255, 120, 41);  
+    font-family: "Fredoka";
+}
+.opAdd{
+    width: 100px;
+    height:96px;
+    font-size: 77px;
+    text-align: center;
+    position: absolute;
+
+    top: 51.8%;
+    left: 23.6%;
+    border: 2px solid rgb(9, 20, 15);
+    border-radius:33px;
+    background-color: rgb(36, 43, 40);
+    color: rgb(255, 120, 41);  
+    font-family: "Fredoka";
+}
+.opSubtract{
+    width: 100px;
+    height:96px;
+    font-size: 77px;
+    text-align: center;
+    position: absolute;
+
+    top: 35.9%;
+    left: 23.6%;
+    border: 2px solid rgb(9, 20, 15);
+    border-radius:33px;
+    background-color: rgb(36, 43, 40);
+    color: rgb(255, 120, 41);  
+    font-family: "Fredoka";
+}
+.opMultiply{
+    width: 100px;
+    height:96px;
+    font-size: 77px;
+    text-align: center;
+    position: absolute;
+
+    top: 4%;
+    left: 23.6%;
+    border: 2px solid rgb(9, 20, 15);
+    border-radius:33px;
+    background-color: rgb(36, 43, 40);
+    color: rgb(255, 120, 41);  
+    font-family: "Fredoka";
+}
+.opDivide{
+    width: 100px;
+    height:96px;
+    font-size: 77px;
+    text-align: center;
+    position: absolute;
+
+    top: 20.01%;
+    left: 23.6%;
+    border: 2px solid rgb(9, 20, 15);
+    border-radius:33px;
+    background-color: rgb(36, 43, 40);
+    color: rgb(255, 120, 41);  
+    font-family: "Fredoka";
+}
+.opDelete{
+    width: 100px;
+    height:96px;
+    font-size: 77px;
+    text-align: center;
+    position: absolute;
+
+    top: 67.7%;
+    left: 23.6%;
+    border: 2px solid rgb(9, 20, 15);
+    border-radius:33px;
+    background-color: rgb(55, 43, 47);
+    color: rgb(255, 120, 41);  
+    font-family: "Fredoka";   
+}
+.opClearAll{
+    width: 100px;
+    height:96px;
+    font-size: 77px;
+    text-align: center;
+    position: absolute;
+
+    top: 67.7%;
+    left: 15.5%;
+    border: 2px solid rgb(9, 20, 15);
+    border-radius:33px;
+    background-color: rgb(55, 43, 47);
+    color: rgb(255, 120, 41);  
+    font-family: "Fredoka";
+}
+.result{
+    width: 888px;
+    height:300px;
+    font-size: 88px;
+    text-align: center;
+    position: absolute;
+
+    top: 10%;
+    left: 33%;
+    border: 2px solid rgb(9, 20, 15);
+    border-radius:33px;
+    background-color: rgb(36, 43, 40);
+    color: rgb(255, 120, 41);  
+    font-family: "Fredoka";
+}
+
